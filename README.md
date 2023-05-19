@@ -18,3 +18,5 @@ Luckily, the accuracy was very satisfying. Otherwise, I would have chosen the 't
 Since, the ML models don't process strings (or text), I had to convert the text into numerical values (vectorizing) but also process the text by elimating the non relevant words (stopwords library) and filtering the words by finding their root (stemming).
 
 The machine learning model used in this project is LogisticRegression which is a supervised machine learning model used for classification purposes.
+
+PS: here is the link to the dataset in kaggle: https://www.kaggle.com/competitions/fake-news/data?select=train.csv
